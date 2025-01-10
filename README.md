@@ -22,3 +22,9 @@ This project is an Exploratory Data Analysis (EDA) of shopping trends aimed at u
 1. Clone the repository:
    ```bash
    git clone https://github.com/<your-username>/<repository-name>.git
+
+## Contact
+
+Feel free to reach out to me for feedback or collaboration:  
+- **LinkedIn**: [yogeshkushwaha-tech](www.linkedin.com/in/yogeshkushwaha-tech)  
+- **Email**: [mryogeshkushwaha@gmail.com](mailto:mryogeshkushwaha@gmail.com)
